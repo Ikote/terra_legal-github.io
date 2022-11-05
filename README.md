@@ -1,2 +1,2 @@
-# terra_legal.github.io
+# terra_legal-github.io
 Terra Legal Research Center
